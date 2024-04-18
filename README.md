@@ -52,10 +52,10 @@ mindmap
 					                tegelased
 						                 märksõnu
 							                  KOKKUVÕTE
-   		  	          ,,Teine sõjasaladus''
+   		  	          ,,𝙏𝙚𝙞𝙣𝙚 𝙨õ𝙟𝙖𝙨𝙖𝙡𝙖𝙙𝙪𝙨''
           	            %%86
-				                asukoht
-					                  tegelased
+				                𝒜𝒮𝒰𝒦𝒪𝐻𝒯: Tuula väeosa
+					                  𝒯𝐸𝒢𝐸𝐿𝒜𝒮𝐸𝒟: leitnant Mitrohhin, staabliülem major Miller, komandör alampolkovnik Obuhhov, nimetamata kapten kes esindab KGB-d lennuväelase vormis ja Linnupoja sõber Sergei Filippov.
 						                   märksõnu
 							                    KOKKUVÕTE
    		  	            ,,Dissidentide väeosa''
