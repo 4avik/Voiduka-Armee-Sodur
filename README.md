@@ -6,15 +6,20 @@ Võiduka Armee Sõdur - Raamatu dokumentatsioon paremini järje hoidmiseks.
 
 mindmap
   root((Raamat ,,Võiduka Armee Sõdur''))
-    Book Information
+     ✩
       Autor: Aleksander Kadakas
-      Kaante kujundaja ja illustreerija: Anastassia Imatra
-      Toimetaja: Irene Õmblus
-      Küljendaja: Vallo Hallik
-      Trükikoda: Printeye OÜ
-      Kirjastus Kröösus
+        Kaante kujundaja ja illustreerija: Anastassia Imatra
+          Toimetaja: Irene Õmblus
+            Küljendaja: Vallo Hallik
+              Trükikoda: Printeye OÜ
+                Kirjastus Kröösus
     Chapters
       Esimene peatükk ,,Jälle Kodus''
+        1 
+          2
+        3
+          4
+            5
     Other dependencies
       Dependency 3
 
