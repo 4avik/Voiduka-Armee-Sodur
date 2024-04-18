@@ -76,26 +76,26 @@ mindmap
 					                        tegelased
 						                         märksõnu
 							                          KOKKUVÕTE
-   		  	                  ,,8inek ehk esimene pulmaöö''
+   		  	                  ,,9inek ehk esimene pulmaöö''
           	                    %%10
 				                        asukoht
 					                          tegelased
 						                           märksõnu
-							                            KOKKUVÕTE
-   		  	                ,,9inek ehk esimene pulmaöö''
+							                        KOKKUVÕTE
+   		  	                    ,,10inek ehk esimene pulmaöö''
           	                      %%10
 				                          asukoht
 					                            tegelased
 						                             märksõnu
-							                            KOKKUVÕTE
-   		  	                      ,,10inek ehk esimene pulmaöö''
-          	                        %%10
-				                            asukoht
-					                              tegelased
-						                                 märksõnu
-							                                  KOKKUVÕTE  
+							                          KOKKUVÕTE
+   		  	                    	,,11inek ehk esimene pulmaöö''
+          	                     	 %%10
+				                          	asukoht
+					                            	tegelased
+						                             	märksõnu
+							                          	KOKKUVÕTE
 ```
-  
+	  
 ```mermaid
 graph TD;
 
