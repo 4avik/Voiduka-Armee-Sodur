@@ -28,72 +28,90 @@ mindmap
 					        tegelased
 						         märksõnu
 							          KOKKUVÕTE
-   		  	  ,,Minek ehk esimene pulmaöö''
-          	    %%10
+   		  	  ,,Sõjakool''
+          	    %%21
 				        asukoht
 					          tegelased
 						           märksõnu
 							            KOKKUVÕTE
-   		  	    ,,1inek ehk esimene pulmaöö''
-          	      %%10
+   		  	    ,,Esimene sõjasaladus''
+          	      %%43
 				          asukoht
 					            tegelased
 						             märksõnu
 							              KOKKUVÕTE
-   		  	      ,,2inek ehk esimene pulmaöö''
-          	        %%10
+   		  	      ,,Saadetis 200''
+          	        %%48
 				            asukoht
 					              tegelased
 						               märksõnu
 							                KOKKUVÕTE
-   		  	        ,,3inek ehk esimene pulmaöö''
-          	          %%10
+   		  	        ,,Tõelises lahingüksuses''
+          	          %%67
 				              asukoht
 					                tegelased
 						                 märksõnu
 							                  KOKKUVÕTE
-   		  	          ,,4inek ehk esimene pulmaöö''
-          	            %%10
+   		  	          ,,Teine sõjasaladus''
+          	            %%86
 				                asukoht
 					                  tegelased
 						                   märksõnu
 							                    KOKKUVÕTE
-   		  	            ,,5inek ehk esimene pulmaöö''
-          	              %%10
+   		  	            ,,Dissidentide väeosa''
+          	              %%94
 				                  asukoht
 					                    tegelased
 						                     märksõnu
 							                      KOKKUVÕTE
-   		  	              ,,6inek ehk esimene pulmaöö''
-          	                %%10
+   		  	              ,,Komandöriks noorsõduritele''
+          	                %%117
 				                    asukoht
 					                      tegelased
 						                       märksõnu
 							                        KOKKUVÕTE
-   		  	                ,,7inek ehk esimene pulmaöö''
-          	                  %%10
+   		  	                ,,Gagarin''
+          	                  %%139
 				                      asukoht
 					                        tegelased
 						                         märksõnu
 							                          KOKKUVÕTE
-   		  	                  ,,9inek ehk esimene pulmaöö''
-          	                    %%10
+   		  	                  ,,Jalgpall versus Sergei Jessenin versus armeekindral''
+          	                    %%150
 				                        asukoht
 					                          tegelased
 						                           märksõnu
 							                        KOKKUVÕTE
-   		  	                    ,,10inek ehk esimene pulmaöö''
-          	                      %%10
+   		  	                    ,,Punane diplomaatiline kuller''
+          	                      %%196
 				                          asukoht
 					                            tegelased
 						                             märksõnu
 							                          KOKKUVÕTE
-   		  	                    	,,11inek ehk esimene pulmaöö''
-          	                     	 %%10
+   		  	                    	,,Viimane kohtumine KGB-ga''
+          	                     	 %%196
 				                          	asukoht
 					                            	tegelased
 						                             	märksõnu
 							                          	KOKKUVÕTE
+   		  	                    		,,Kolmas sõjasaladus''
+          	                     	 	%%211
+				                          		asukoht
+					                            		tegelased
+						                             		märksõnu
+							                          		KOKKUVÕTE
+   		  	                    			,,Põgenemine ehk ärgu olgu sul sada rubla, vaid sada sõpra''
+          	                     	 		%%219
+				                          			asukoht
+					                            			tegelased
+						                             			märksõnu
+							                          			KOKKUVÕTE
+   		  	                    				,,Lõppakord''
+          	                     	 			%%233
+				                          				asukoht
+					                            				tegelased
+						                             				märksõnu
+							                          				KOKKUVÕTE
 ```
 	  
 ```mermaid
