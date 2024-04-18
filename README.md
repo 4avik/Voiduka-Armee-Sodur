@@ -55,9 +55,9 @@ mindmap
    		  	          ,,𝙏𝙚𝙞𝙣𝙚 𝙨õ𝙟𝙖𝙨𝙖𝙡𝙖𝙙𝙪𝙨''
           	            %%86
 				                𝒜𝒮𝒰𝒦𝒪𝐻𝒯: Tuula väeosa
-					                  𝒯𝐸𝒢𝐸𝐿𝒜𝒮𝐸𝒟: leitnant Mitrohhin, staabliülem major Miller, komandör alampolkovnik Obuhhov, nimetamata kapten kes esindab KGB-d lennuväelase vormis ja Linnupoja sõber Sergei Filippov.
+					                  𝒯𝐸𝒢𝐸𝐿𝒜𝒮𝐸𝒟: leitnant Mitrohhin, staabliülem major Miller, komandör alampolkovnik Obuhhov, nimetamata kapten kes esindab KGB-d lennuväelase vormis ja Linnupoja sõber vanemleitnant Sergei Filippov.
 						                   °✷🎀  𝑀Ä𝑅𝒦𝒮Õ𝒩𝒰:  🎀✷° KGB, must Volga, lennukid, MIG-25 uuendus, muie luuravast SR-71'st
-							                    𝒦𝒪𝒦𝒦𝒰𝒱Õ𝒯𝐸:
+							                    𝒦𝒪𝒦𝒦𝒰𝒱Õ𝒯𝐸: Ühel suvisel pühapäeval mängisid sõdurid jalgpalliväljakul, ning seda tegi ka Toomas, kuid pisut tahapoole hoides. Vähemalt seniks, kui tuli väljaku äärde päevnik, kes teatas et Linnupoeg peab suunduma kõrgusejälgis neid. 
 
    		  	            ,,Dissidentide väeosa''
           	              %%94
@@ -133,3 +133,6 @@ graph TD;
     A --> I[Dependency 3];
 
 ```
+
+Kasutatud materjalid, tööriistad ja allikad:
+- https://lingojam.com/BoldTextGenerator
