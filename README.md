@@ -7,39 +7,95 @@ Võiduka Armee Sõdur - Raamatu dokumentatsioon paremini järje hoidmiseks.
 mindmap
   root((Raamat ,,Võiduka Armee Sõdur''))
      ✩
-      Autor: Aleksander Kadakas
-        Kaante kujundaja ja illustreerija: Anastassia Imatra
-          Toimetaja: Irene Õmblus
-            Küljendaja: Vallo Hallik
-              Trükikoda: Printeye OÜ
-                Kirjastus Kröösus
-    Chapters
-      Esimene peatükk ,,Jälle Kodus''
-        ,,Minek ehk esimene pulmaöö''
-          ,,Sõjakool''
-            ,,Esimene sõjasaladus''
-              ,,Saadetis 200''
-    					 ,,Teine sõjasaladud''
-    					 	,,Dissidentide väeosa''
-    					 		,,Komandöriks noorsõduritele''
-    					 			,,Gagarin''
-    					 				,,Jalgpall versus Sergei''
-    					 					,,Jessenin versus armeekindral''
-    					 						,,Punane diplomaatiline kuller''
-    					 							,,Viimane kohtumine KGB-ga''
-    					 								,,Kolmas sõjasaladus''
-    					 									,,Põgenemine ehk ärgu olgu sul sada rubla, vaid sada sõpra''
-    					 										,,Lõppakord''
-        3
-          4
-            5
-    Other dependencies
-      Dependency 3
+      	Autor: Aleksander Kadakas
+      	  Kaante kujundaja ja illustreerija: Anastassia Imatra
+      	    Toimetaja: Irene Õmblus
+      	      Küljendaja: Vallo Hallik
+      	        Trükikoda: Printeye OÜ
+      	          Kirjastus Kröösus
 
 
-
+   		Chapters
+   			Esimene peatükk ,,Jälle Kodus''
+          	%%7
+				    asukoht
+					    tegelased
+						    märksõnu
+							    KOKKUVÕTE
+   			  ,,Minek ehk esimene pulmaöö''
+          	  %%10
+				      asukoht
+					        tegelased
+						         märksõnu
+							          KOKKUVÕTE
+   		  	  ,,Minek ehk esimene pulmaöö''
+          	    %%10
+				        asukoht
+					          tegelased
+						           märksõnu
+							            KOKKUVÕTE
+   		  	    ,,1inek ehk esimene pulmaöö''
+          	      %%10
+				          asukoht
+					            tegelased
+						             märksõnu
+							              KOKKUVÕTE
+   		  	      ,,2inek ehk esimene pulmaöö''
+          	        %%10
+				            asukoht
+					              tegelased
+						               märksõnu
+							                KOKKUVÕTE
+   		  	        ,,3inek ehk esimene pulmaöö''
+          	          %%10
+				              asukoht
+					                tegelased
+						                 märksõnu
+							                  KOKKUVÕTE
+   		  	          ,,4inek ehk esimene pulmaöö''
+          	            %%10
+				                asukoht
+					                  tegelased
+						                   märksõnu
+							                    KOKKUVÕTE
+   		  	            ,,5inek ehk esimene pulmaöö''
+          	              %%10
+				                  asukoht
+					                    tegelased
+						                     märksõnu
+							                      KOKKUVÕTE
+   		  	              ,,6inek ehk esimene pulmaöö''
+          	                %%10
+				                    asukoht
+					                      tegelased
+						                       märksõnu
+							                        KOKKUVÕTE
+   		  	                ,,7inek ehk esimene pulmaöö''
+          	                  %%10
+				                      asukoht
+					                        tegelased
+						                         märksõnu
+							                          KOKKUVÕTE
+   		  	                  ,,8inek ehk esimene pulmaöö''
+          	                    %%10
+				                        asukoht
+					                          tegelased
+						                           märksõnu
+							                            KOKKUVÕTE
+   		  	                ,,9inek ehk esimene pulmaöö''
+          	                      %%10
+				                          asukoht
+					                            tegelased
+						                             märksõnu
+							                            KOKKUVÕTE
+   		  	                      ,,10inek ehk esimene pulmaöö''
+          	                        %%10
+				                            asukoht
+					                              tegelased
+						                                 märksõnu
+							                                  KOKKUVÕTE  
 ```
-
+  
 ```mermaid
 graph TD;
 
