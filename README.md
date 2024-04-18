@@ -56,8 +56,9 @@ mindmap
           	            %%86
 				                𝒜𝒮𝒰𝒦𝒪𝐻𝒯: Tuula väeosa
 					                  𝒯𝐸𝒢𝐸𝐿𝒜𝒮𝐸𝒟: leitnant Mitrohhin, staabliülem major Miller, komandör alampolkovnik Obuhhov, nimetamata kapten kes esindab KGB-d lennuväelase vormis ja Linnupoja sõber Sergei Filippov.
-						                   märksõnu
-							                    KOKKUVÕTE
+						                   °✷🎀  𝑀Ä𝑅𝒦𝒮Õ𝒩𝒰:  🎀✷° KGB, must Volga, lennukid, MIG-25 uuendus, muie luuravast SR-71'st
+							                    𝒦𝒪𝒦𝒦𝒰𝒱Õ𝒯𝐸:
+
    		  	            ,,Dissidentide väeosa''
           	              %%94
 				                  asukoht
