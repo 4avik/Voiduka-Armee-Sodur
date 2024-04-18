@@ -136,3 +136,8 @@ graph TD;
 
 Kasutatud materjalid, tööriistad ja allikad:
 - https://lingojam.com/BoldTextGenerator
+- https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams#creating-mermaid-diagrams
+- https://mermaid.js.org/syntax/mindmap.html
+
+Lisaks asju mida huvi tõttu lugeda:
+- https://github.github.com/gfm/#what-is-github-flavored-markdown-
