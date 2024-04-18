@@ -15,8 +15,21 @@ mindmap
                 Kirjastus Kröösus
     Chapters
       Esimene peatükk ,,Jälle Kodus''
-        1 
-          2
+        ,,Minek ehk esimene pulmaöö''
+          ,,Sõjakool''
+            ,,Esimene sõjasaladus''
+              ,,Saadetis 200''
+    					 ,,Teine sõjasaladud''
+    					 	,,Dissidentide väeosa''
+    					 		,,Komandöriks noorsõduritele''
+    					 			,,Gagarin''
+    					 				,,Jalgpall versus Sergei''
+    					 					,,Jessenin versus armeekindral''
+    					 						,,Punane diplomaatiline kuller''
+    					 							,,Viimane kohtumine KGB-ga''
+    					 								,,Kolmas sõjasaladus''
+    					 									,,Põgenemine ehk ärgu olgu sul sada rubla, vaid sada sõpra''
+    					 										,,Lõppakord''
         3
           4
             5
