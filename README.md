@@ -55,9 +55,9 @@ mindmap
    		  	          ,,𝙏𝙚𝙞𝙣𝙚 𝙨õ𝙟𝙖𝙨𝙖𝙡𝙖𝙙𝙪𝙨''
           	            %%86
 				                𝒜𝒮𝒰𝒦𝒪𝐻𝒯: Tuula väeosa
-					                  𝒯𝐸𝒢𝐸𝐿𝒜𝒮𝐸𝒟: leitnant Mitrohhin, staabliülem major Miller, komandör alampolkovnik Obuhhov, nimetamata kapten kes esindab KGB-d lennuväelase vormis ja Linnupoja sõber vanemleitnant Sergei Filippov.
-						                   °✷🎀  𝑀Ä𝑅𝒦𝒮Õ𝒩𝒰:  🎀✷° KGB, must Volga, lennukid, MIG-25 uuendus, muie luuravast SR-71'st
-							                    𝒦𝒪𝒦𝒦𝒰𝒱Õ𝒯𝐸: Ühel suvisel pühapäeval mängisid sõdurid jalgpalliväljakul, ning seda tegi ka Toomas, kuid pisut tahapoole hoides. Vähemalt seniks, kui tuli väljaku äärde päevnik, kes teatas et Linnupoeg peab suunduma kõrgusejälgis neid. 
+					                  𝒯𝐸𝒢𝐸𝐿𝒜𝒮𝐸𝒟: tol päeval komandopunkti korrapidaja olnud leitnant Mitrohhin, staabliülem major Miller, komandör alampolkovnik Obuhhov, nimetamata kapten kes esindab KGB-d lennuväelase vormis ja Linnupoja sõber vanemleitnant Sergei Filippov.
+						                   °✷🎀  𝑀Ä𝑅𝒦𝒮Õ𝒩𝒰:  🎀✷° Kõrguse ja kauguse mõõtmine, KGB, must Volga, lennukid, MIG-25 uuendus, muie luuravast SR-71'st
+							                    𝒦𝒪𝒦𝒦𝒰𝒱Õ𝒯𝐸: Ühel suvisel pühapäeval mängisid sõdurid jalgpalliväljakul, ning seda tegi ka Toomas, kuid pisut tahapoole hoides. Vähemalt seniks, kui tuli väljaku äärde päevnik, kes teatas et Linnupoeg peab suunduma angaari ja käivitama kõrgusemõõtmisseadme. Peale tööülesande täitmist ja komandopunkti info edastamist, otsustab Linnupoeg aja veetmiseks vajutada kõrgusemõõtjal nuppu, mis muudab ekraanil nähtava kõrguse kilometraaži. Järsku, vaikselt lokaatorit pöörates avastab Linnupoeg, et üks lennuk lendab tunduvalt kõrgemal tavalistest reisilennukitest. Muidugi annab Toomas sellest koheselt komandopunktile teada ja lülitab sisse fotokontrolli, kinnitamaks kahtlase lennuki olemasolu. Toomas arutab endamisi, et ameeriklaste superlennuk SR-71 lendab tema üllatuslennukiga enam-vähem samal kõrgusel /u. 35km/
 
    		  	            ,,Dissidentide väeosa''
           	              %%94
@@ -113,6 +113,16 @@ mindmap
 					                            				tegelased
 						                             				märksõnu
 							                          				KOKKUVÕTE
+
+
+
+     ✩
+      	Tegelaste kirjeldused
+      	  leitnant Mitrohhin -  Kehakas, et mitte öelda paks noremapoolne ohvitser, kes alati hakkas hingeldama, kui pidi tegema üle kümne sammu või rääkima üle kahe lause. /lk 88/
+      	    Toimetaja: Irene Õmblus
+      	      Küljendaja: Vallo Hallik
+      	        Trükikoda: Printeye OÜ
+      	          Kirjastus Kröösus
 ```
 	  
 ```mermaid
