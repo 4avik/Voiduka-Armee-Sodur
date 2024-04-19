@@ -62,9 +62,9 @@ mindmap
    		  	            ,,Dissidentide väeosa''
           	              %%94
 				                  𝒜𝒮𝒰𝒦𝒪𝐻𝒯:
-					                    tegelased
+					                    𝒯𝐸𝒢𝐸𝐿𝒜𝒮𝐸𝒟: Nooremseersandid Toomas Linnupoeg ja sõber Avetissov, napsune vene naine, komandör alampolkovnik Obuhhov
 						                     märksõnu
-							                      𝒦𝒪𝒦𝒦𝒰𝒱Õ𝒯𝐸: Suvi näitas oma viimaseid päikeselisi hetki.
+							                      𝒦𝒪𝒦𝒦𝒰𝒱Õ𝒯𝐸: Suvi näitas oma viimaseid päikeselisi hetki. Vili oli koristatud ja sügis oli lähenemas. Toomas kurdab sõjaväe elu üle ja saab koos Avetissoviga linnaloa, kuid satub tagasi väeossa hääletades pulmabussi, mis teeb kõrvalpõike. Peale rinnaka ja tugevalt samaka järgi lõhnava naise katsetust Toomast heinarõuku kutsuda, leiavad poisid, et nüüd on aeg pulmapeolt lahkuda. Tagasi väeossa jõudnud, kulges järgmise päeva pühapäevane hommik rahulikult, hommikuse rivisttuse lõpus andis Obuhhov korralduse Linnupojal rivi ette astuda ja kuulutas talle välja sõjalise auastme - seersant. Lisaks teatas Obuhhov, et homsest jätkab Toomas oma teenistust Orjoli linnas. See tuli Toomasele suureks üllatuseks, kuna ta pidi easialgu kuni teenistuse lõpuni siinsamas teenima. Obuhhov ütles hiljem saladuse katte all, et nad tegid mis nad said, kuid sellegi poolest tuli selleks käsk. Gruusia poisid koos sõpradega tegid Gruusia stiilis ärasaatmispeo, kus tamadaks oli muidugi Toomas.
    		  	              ,,Komandöriks noorsõduritele''
           	                %%117
 				                    asukoht
