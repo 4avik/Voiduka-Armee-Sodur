@@ -89,7 +89,7 @@ mindmap
 				                          asukoht
 					                            tegelased
 						                             märksõnu
-							                          KOKKUVÕTE
+							                          𝒦𝒪𝒦𝒦𝒰𝒱Õ𝒯𝐸: Linnupoeg jõuab tagasi enda puhkuselt Eestis ja kohe esimese asjana dissidentde väeossa tagasi jõudes, annab kapten Maltsev talle teada, et teda on vaja riviosakonna staabis, seega Linnupoeg pöörab otsa ümber, juba eeldades et ehk tahab major Butkus teda jälle punasele diplomaatilise kulleri missioonile saata. Butkuse kabinetti jõudes tuleb aga välja et mure on hoopis vaikse  mägedepoja Uruhadzega, kes peale sõjaväeringkonnahaiglas käimist otsustati koju saata, kuid lubas enda saatjaks ainult Linnupoja kuid mitte kedagi teist. Sellega algaski Linnupoja sõit arstipunkti ja siis sealt koos Uruhadzega Moskvasse ning sealt edasi Uruhadze koju, Gruusia asuvasse Tbilisi. Teel sinna leidis Toomas et ta, ei saa rongi peal und, seega otsustas ta hoopis meenutada varasemaid kordi kus ta pidi kedagi koju saatma. Talle meenus kord Ukrainlasega, kes sõjaväest lahkumise soovi avaldamiseks mässuneelselt kuid järjekindlalt enda voodisse urineerinud, kuni ta läbis arstliku keemilise protseduuri mille tulemusena muutus ta aga juurikaks ning koju saadeti. Ning muidugi oli tema saatjaks Toomas.
    		  	                    	,,Viimane kohtumine KGB-ga''
           	                     	 %%196
 				                          	asukoht
