@@ -76,13 +76,14 @@ mindmap
 				                      asukoht
 					                        tegelased
 						                         märksõnu
-							                          KOKKUVÕTE
+							                          𝒦𝒪𝒦𝒦𝒰𝒱Õ𝒯𝐸: Toomas oli kunagi Gagarini perekonna seisu / suhet aidanud sellega, et andis talle pudeli vana Tallinnat. Tänu sellele aitab Gagarin ka mitte-kuuleks grusiinlase omale kohale panna ja muudab ka juba kuulekad grusiinlase veelgi rohkem kuulekamaks.
+							                          
    		  	                  ,,Jalgpall versus Sergei Jessenin versus armeekindral''
           	                    %%150
 				                        asukoht
 					                          tegelased
 						                           märksõnu
-							                        KOKKUVÕTE
+							                        𝒦𝒪𝒦𝒦𝒰𝒱Õ𝒯𝐸: Toomaseni on jõudnud teade, et varsti tuleb armeekindral Konstantinov kindlasti just linnupoja väeosa. See tekitab ärevust terves pataljonis, kuna kindrali külastus on planeeritud just päevaks peale suurt jalpalli MM finaali, mida kõik sõdurid väga pingsalt jälgivad. Toomas satub kokku enda eestlastest kaas-teenijate, August Puusepa ja kunstnik Endel Matteusega. Toomas käib öösel Augusti ehk Kustaga linnas, kuna kusta tahab väga mingi naise juurde minna, kes elab linnas. Järgmisel päeval tuleb kontrollima neid armeekindral ning kuna kõik läks libedalt, määratakse Linnupojale 10 päeva kodusolemist puhkuseks. Kuna selle alla reisiaeg ei lähe, siis võib kokku arvestada ~15 päeva. Leedukatega vahetusse...
    		  	                    ,,Punane diplomaatiline kuller''
           	                      %%196
 				                          asukoht
