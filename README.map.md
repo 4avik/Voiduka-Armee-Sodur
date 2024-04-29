@@ -19,6 +19,19 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [37.6172999, 55.755826]
+      },
+      "properties": {
+        "asukoht": "Moscow",
+        "kirjeldus": "Capital city of Russia",
+        "kontekst": "A major cultural, political, and economic center",
+        "leheküljed, kus mainiti": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [38.5048669, 52.6170992]
       },
       "properties": {
@@ -34,6 +47,7 @@
         "type": "LineString",
         "coordinates": [
           [26.710291, 58.383207],
+          [37.6172999, 55.755826],
           [38.5048669, 52.6170992]
         ]
       },
@@ -45,4 +59,7 @@
   ]
 }
 
+
 ```
+
+https://www.here.com/docs/bundle/data-inspector-library-developer-guide/page/pages/style-geojson-visualization.html 
